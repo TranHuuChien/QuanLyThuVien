@@ -1,0 +1,82 @@
+
+
+241
+14
+2014
+3
+NLCV
+Noi Luon Cho Vuong
+Steve Harvey
+Cam hung
+
+100
+12
+2001
+3
+VDH
+Vung Dat Hua
+Dang Bac
+Cam hung
+
+1000
+5
+1650
+4
+TD
+Tat Den
+Ngo Tat To
+Dan gian
+
+2500
+15
+1475
+2
+TK
+Truyen Kieu
+Nguyen Du
+Dan gian
+
+15
+5
+2016
+2
+DM
+Dau Mua
+Trung Quan
+Tinh cam
+
+120
+18
+2017
+3
+Y
+Yeu
+Erik
+Tinh yeu
+
+1745
+10
+1712
+0
+CP
+Chi Pheo
+Nam Cao
+Van hoc
+
+20
+12
+1875
+2
+L
+Lang
+Kim Lan
+Van hoc
+
+175
+21
+1943
+1
+LH
+Lao Hac
+Nam Cao
+Van hoc
